@@ -1,0 +1,2 @@
+# configuraciones
+Parcial 1
